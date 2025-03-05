@@ -162,7 +162,9 @@ export default function Hero() {
                     sequence={[
                       "I'm a Frontend Developer",
                       2000,
-                      "I'm a UI/UX Designer",
+                      "I'm a Backend Developer",
+                      2000,
+                      "I'm a Fullstack Developer", 
                       2000,
                       "I'm a Web Developer",
                       2000,
