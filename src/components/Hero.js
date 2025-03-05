@@ -143,7 +143,7 @@ export default function Hero() {
             <div className="grid justify-center items-center">
               <img
                 src={pfp}
-                alt="Sohom Mondal"
+                alt="Karina Mufrida Prilliani"
                 className="w-72 rounded-full drop-shadow-2xl"
               />
             </div>
@@ -155,7 +155,7 @@ export default function Hero() {
               </div>
               <div className="text-center">
                 <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-                  Sohom Mondal
+                  Karina Mufrida Prilliani
                 </h1>
                 <p className="mt-6 text-2xl leading-8">
                   <TypeAnimation
