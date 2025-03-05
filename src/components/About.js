@@ -11,17 +11,17 @@ import "aos/dist/aos.css";
 const features = [
   {
     name: "Age:",
-    description: "18 years old",
+    description: "29 years old",
     icon: CalendarIcon,
   },
   {
     name: "Email:",
-    description: "name@example.com",
+    description: "kmpalpha@gmail.com",
     icon: AtSymbolIcon,
   },
   {
     name: "Location:",
-    description: "India, Earth",
+    description: "Indonesia, BANTEN",
     icon: MapPinIcon,
   },
 ];
