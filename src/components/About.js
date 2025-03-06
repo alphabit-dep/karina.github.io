@@ -76,13 +76,13 @@ export default function About() {
                   Experience
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  PT. TELKOM AKSES - Fullstack Developer.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Vestibulum vitae augue sit amet ex laoreet euismod sed eu dui.
+                  PT. Indosat - IT Support.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Fusce et leo nec elit mollis sollicitudin.
+                  PT. Telkom Akses - Quality control.
                 </p>
               </div>
               <div
@@ -97,13 +97,13 @@ export default function About() {
                   Education
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  PT. TELKOM AKSES - Fullstack Developer.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Vestibulum vitae augue sit amet ex laoreet euismod sed eu dui.
+                  PT. Indosat - IT Support.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Fusce et leo nec elit mollis sollicitudin.
+                  PT. Telkom Akses - Quality control.
                 </p>
               </div>
             </div>
