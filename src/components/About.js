@@ -46,7 +46,6 @@ export default function About() {
               <p className="mt-6 text-lg leading-8" data-aos="fade-right">
                 Programmer web yang percaya diri, optimis, dan disiplin dengan semangat kerja tinggi. Berpengalaman dalam mengembangkan aplikasi berbasis web yang efisien dan user-friendly menggunakan PHP (CodeIgniter 3), Laravel, dan JavaScript. 
                 Beberapa proyek yang telah saya selesaikan mencakup Aplikasi Web Monitoring BTS TELKOMSEL, Monitoring Layanan Indihome.<br>
-
                 Saat ini saya sebagai karyawan TELKOM AKSES di unit Digital Network Services, saya telah mengasah keterampilan dalam pengajaran dan pengembangan aplikasi. 
                 Dengan minat besar dalam eksplorasi teknologi dan inovasi, saya berkomitmen untuk terus belajar dan memberikan hasil terbaik.
               </p>
