@@ -97,14 +97,12 @@ export default function About() {
                   Education
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  PT. TELKOM AKSES - Fullstack Developer.
+                  Mercu Buana University.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  PT. Indosat - IT Support.
+                  SMK TELKOM SANDHY PUTRA PURWOKERTO.
                 </p>
-                <p className="mt-3 list-item list-inside">
-                  PT. Telkom Akses - Quality control.
-                </p>
+                
               </div>
             </div>
             <dl
