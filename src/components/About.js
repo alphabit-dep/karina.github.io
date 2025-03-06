@@ -44,23 +44,11 @@ export default function About() {
                 About Me
               </p>
               <p className="mt-6 text-lg leading-8" data-aos="fade-right">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-                suscipit lobortis nisi, consequat semper lacus tempor sit amet.
-                Sed elit orci, pretium sed velit sit amet, venenatis pretium
-                magna. Nam pharetra dictum urna, non vestibulum mauris vulputate
-                ut. Sed eros nisi, dapibus vitae consequat non, mollis et
-                tortor. Maecenas bibendum nunc eu cursus maximus. Fusce
-                ultricies ornare neque, vel varius libero euismod eget. Nulla
-                sodales blandit lacus, id maximus quam interdum in. Morbi eu
-                velit ut mi semper sollicitudin finibus aliquam nisi.
-                Pellentesque habitant morbi tristique senectus et netus et
-                malesuada fames ac turpis egestas. Ut accumsan faucibus urna vel
-                placerat. Donec euismod dui enim, tincidunt suscipit mauris
-                lacinia vel. Fusce eget risus eget leo euismod porta. Aliquam
-                dapibus sapien vitae eros pulvinar, in auctor ligula porta. Nam
-                ac porttitor risus, nec blandit nulla. Nam erat erat, venenatis
-                quis scelerisque nec, rhoncus id mi. Suspendisse molestie nibh
-                purus, quis semper tellus pulvinar eget.
+                Programmer web yang percaya diri, optimis, dan disiplin dengan semangat kerja tinggi. Berpengalaman dalam mengembangkan aplikasi berbasis web yang efisien dan user-friendly menggunakan PHP (CodeIgniter 3), Laravel, dan JavaScript. 
+                Beberapa proyek yang telah saya selesaikan mencakup Aplikasi Web Monitoring BTS TELKOMSEL, Monitoring Layanan Indihome.
+
+                Saat ini saya sebagai karyawan TELKOM AKSES di unit Digital Network Services, saya telah mengasah keterampilan dalam pengajaran dan pengembangan aplikasi. 
+                Dengan minat besar dalam eksplorasi teknologi dan inovasi, saya berkomitmen untuk terus belajar dan memberikan hasil terbaik.
               </p>
             </div>
           </div>
