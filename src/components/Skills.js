@@ -10,23 +10,29 @@ const frontend = [
     icon: CheckCircleIcon,
   },
   {
-    name: "JavaScript",
-    value: 70,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "React",
+    name: "PHP (CodeIgniter)",
     value: 80,
     icon: CheckCircleIcon,
+    
   },
   {
-    name: "Next.js",
+    name: "JavaScript",
     value: 60,
     icon: CheckCircleIcon,
   },
   {
-    name: "TailwindCSS",
+    name: "Laravel",
     value: 80,
+    icon: CheckCircleIcon,
+  },
+  {
+    name: "Java",
+    value: 70,
+    icon: CheckCircleIcon,
+  },
+  {
+    name: "Flutter",
+    value: 30,
     icon: CheckCircleIcon,
   },
 ];
@@ -43,12 +49,12 @@ const backend = [
   },
   {
     name: "MySQL",
-    value: 50,
+    value: 80,
     icon: CheckCircleIcon,
   },
   {
     name: "APIs",
-    value: 20,
+    value: 80,
     icon: CheckCircleIcon,
   },
   {
@@ -57,7 +63,12 @@ const backend = [
     icon: CheckCircleIcon,
   },
   {
-    name: "GraphQL",
+    name: "C++",
+    value: 80,
+    icon: CheckCircleIcon,
+  },
+  {
+    name: "KAFKA",
     value: 30,
     icon: CheckCircleIcon,
   },
