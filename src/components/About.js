@@ -77,7 +77,7 @@ export default function About() {
                   Experience
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                   TELKOM AKSES - Fullstack Developer.
+                   Telkom Akses - Fullstack Developer.
                 </p>
                 <p className="mt-3 list-item list-inside">
                    Indosat - IT Support.
