@@ -173,7 +173,7 @@ export default function Hero() {
                 </p>
                 <div className="mt-10 flex items-center justify-center gap-x-6">
                   <p>
-                    
+                    -
                   </p>
                 </div>
                 <div className="mt-10 flex items-center justify-center gap-x-4">
