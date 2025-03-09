@@ -175,9 +175,9 @@ export default function Hero() {
                 </p>
                 <div className="mt-10 flex items-center justify-center gap-x-6">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Nulla venenatis quis nibh ut laoreet. Sed imperdiet leo nec
-                    ex dapibus mollis.
+                    // Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    // Nulla venenatis quis nibh ut laoreet. Sed imperdiet leo nec
+                    // ex dapibus mollis.
                   </p>
                 </div>
                 <div className="mt-10 flex items-center justify-center gap-x-4">
