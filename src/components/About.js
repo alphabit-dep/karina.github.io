@@ -44,7 +44,11 @@ export default function About() {
                 About Me
               </p>
               <p className="mt-6 text-lg leading-8" data-aos="fade-right">
-                Programmer web yang percaya diri, optimis, dan disiplin dengan semangat kerja tinggi. 
+                
+                Programmer web yang percaya diri, optimis, dan disiplin dengan semangat kerja tinggi. Berpengalaman dalam mengembangkan aplikasi berbasis web yang efisien dan user-friendly menggunakan PHP (CodeIgniter 3), Laravel, dan JavaScript. 
+                Beberapa proyek yang telah saya selesaikan mencakup Aplikasi Web Monitoring BTS TELKOMSEL, Monitoring Layanan Indihome.
+                Saat ini saya sebagai karyawan di TELKOM AKSES di unit Digital Network Services, saya telah mengasah keterampilan dalam pengajaran dan pengembangan aplikasi. 
+                Dengan minat besar dalam eksplorasi teknologi dan inovasi, saya berkomitmen untuk terus belajar dan memberikan hasil terbaik.
               </p>
             </div>
           </div>
@@ -73,13 +77,13 @@ export default function About() {
                   Experience
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  PT. TELKOM AKSES - Fullstack Developer.
+                   TELKOM AKSES - Fullstack Developer.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  PT. Indosat - IT Support.
+                   Indosat - IT Support.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  PT. Telkom Akses - Quality control.
+                   Telkom Akses - Quality control.
                 </p>
               </div>
               <div
