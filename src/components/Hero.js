@@ -160,13 +160,11 @@ export default function Hero() {
                 <p className="mt-6 text-2xl leading-8">
                   <TypeAnimation
                     sequence={[
-                      "I'm a Frontend Developer",
+                      "I'm a Web Developer",
                       2000,
-                      "I'm a Backend Developer",
+                      "I'm a Mobile Developer",
                       2000,
                       "I'm a Fullstack Developer", 
-                      2000,
-                      "I'm a Web Developer",
                       2000,
                     ]}
                     speed={50}
