@@ -46,7 +46,7 @@ export default function About() {
               <p className="mt-6 text-lg leading-8" data-aos="fade-right">
                 
                 Programmer web yang percaya diri, optimis, dan disiplin dengan semangat kerja tinggi. Berpengalaman dalam mengembangkan aplikasi berbasis web yang efisien dan user-friendly menggunakan PHP (CodeIgniter 3), Laravel, dan JavaScript. 
-                Beberapa proyek yang telah saya selesaikan mencakup Aplikasi Web Monitoring BTS TELKOMSEL, Monitoring Layanan Indihome.
+                Beberapa proyek yang telah saya selesaikan mencakup Aplikasi Web Monitoring BTS TELKOMSEL, Monitoring Layanan Indihome.</br>
                 Saat ini saya sebagai karyawan di TELKOM AKSES di unit Digital Network Services, saya telah mengasah keterampilan dalam pengajaran dan pengembangan aplikasi. 
                 Dengan minat besar dalam eksplorasi teknologi dan inovasi, saya berkomitmen untuk terus belajar dan memberikan hasil terbaik.
               </p>
@@ -59,7 +59,7 @@ export default function About() {
         >
           <img
             className="w-[38rem] ring-2 ring-base-300 max-w-none rounded-xl shadow-xl sm:w-[57rem]"
-            src="https://fastly.picsum.photos/id/473/5000/3333.jpg?hmac=OrrE0aUqLbLCJ9PAlSn0dIRHjOnuuuev9IjuO3PGZf8"
+            img="about.jpg"
             alt="Person"
           />
         </div>
