@@ -28,7 +28,7 @@ const projects = [
     name: "Mobile",
     href: "#",
     imageSrc:
-      "https://fastly.picsum.photos/id/447/1280/853.jpg?hmac=4DUUCOsHRIoYbNrPRYEUHOW7wCjM7TROrTrYFivtdPw",
+      "martabak.png",
 
     used: "Java",
     description: "Aplikasi Order Martabak",
@@ -38,7 +38,7 @@ const projects = [
     name: "Mobile",
     href: "#",
     imageSrc:
-      "https://fastly.picsum.photos/id/366/4000/3000.jpg?hmac=zphhHOH9ofToN2jNHd8z-nc98NrBd8y2okWXEXetLDg",
+      "list_movie.png",
     used: "Java",
     description: "Aplikasi List Movie Populer",
   },
