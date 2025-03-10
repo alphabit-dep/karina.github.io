@@ -60,7 +60,7 @@ export default function About() {
         >
           <img
             className="w-[38rem] ring-2 ring-base-300 max-w-none rounded-xl shadow-xl sm:w-[57rem]"
-            img="about.jpg"
+            img="../about.jpg"
             alt="Person"
           />
         </div>
