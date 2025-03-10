@@ -1,7 +1,5 @@
 import { useEffect } from "react";
 
-import pfp from "../martabak.png";
-import pfp from "../list_movie.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -29,7 +27,7 @@ const projects = [
     name: "Mobile",
     href: "#",
     imageSrc:
-      "martabak.png",
+      "../martabak.png",
 
     used: "Java",
     description: "Aplikasi Order Martabak",
@@ -39,7 +37,7 @@ const projects = [
     name: "Mobile",
     href: "#",
     imageSrc:
-      "list_movie.png",
+      "../list_movie.png",
     used: "Java",
     description: "Aplikasi List Movie Populer",
   },
