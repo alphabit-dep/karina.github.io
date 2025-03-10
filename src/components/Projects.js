@@ -1,8 +1,9 @@
 import { useEffect } from "react";
-import AOS from "aos";
-import "aos/dist/aos.css";
+
 import pfp from "../martabak.png";
 import pfp from "../list_movie.png";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const projects = [
   {
