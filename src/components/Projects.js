@@ -9,16 +9,16 @@ const projects = [
     name: "Web",
     href: "#",
     imageSrc:
-      "https://fastly.picsum.photos/id/23/3887/4899.jpg?hmac=2fo1Y0AgEkeL2juaEBqKPbnEKm_5Mp0M2nuaVERE6eE",
+      "../catalyst.png",
     used: "Laravel, REST API",
-    description: "Aplikasi Monitoring Alarm BTS",
+    description: "Aplikasi Monitoring Alarm & Inventory BTS TELKOMSEL",
   },
   {
     id: 2,
     name: "Web",
     href: "#",
     imageSrc:
-      "https://fastly.picsum.photos/id/3/5000/3333.jpg?hmac=GDjZ2uNWE3V59PkdDaOzTOuV3tPWWxJSf4fNcxu4S2g",
+      "../ibooster.png",
     used: "PHP, Mysql",
     description: "Aplikasi Monitoring Inventory Indihome",
   },
