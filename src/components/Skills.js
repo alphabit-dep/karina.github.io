@@ -21,6 +21,11 @@ const frontend = [
     icon: CheckCircleIcon,
   },
   {
+    name: "GOJS",
+    value: 50,
+    icon: CheckCircleIcon,
+  },
+  {
     name: "Laravel",
     value: 80,
     icon: CheckCircleIcon,
