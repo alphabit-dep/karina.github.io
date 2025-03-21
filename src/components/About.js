@@ -21,7 +21,7 @@ const features = [
   },
   {
     name: "Location:",
-    description: "Indonesia, BANTEN",
+    description: "Banten, Indonesia",
     icon: MapPinIcon,
   },
 ];
