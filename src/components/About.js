@@ -11,7 +11,7 @@ import "aos/dist/aos.css";
 const features = [
   {
     name: "Age:",
-    description: "29 years old",
+    description: "30 years old",
     icon: CalendarIcon,
   },
   {
